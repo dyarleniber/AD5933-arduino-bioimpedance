@@ -17,7 +17,7 @@ The source code has four states, in the initial state, the software waits for a 
 
 For more details of AD5933 configuration, and the AD5933 operation mode, access the [component datasheet](http://www.analog.com/media/en/technical-documentation/data-sheets/AD5933.pdf).
 
-> #### This source code is part of my Bachelor's degree in Computer Engineering final paper. To download the full final paper [click here](https://raw.githubusercontent.com/dyarleniber/AD5933-arduino-bioimpedance/master/final-paper-dyarleniber.pdf).
+> #### This source code is part of my Bachelor's degree in Computer Engineering final paper. To download the full final paper (pt-BR) [click here](https://raw.githubusercontent.com/dyarleniber/AD5933-arduino-bioimpedance/master/final-paper-dyarleniber.pdf).
 
 License
 ----
